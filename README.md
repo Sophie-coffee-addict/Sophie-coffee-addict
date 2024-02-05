@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sophie.
+- 👋 Hi, I’m Sophie : )
 - 👀 I’m interested in making web apps and iOS mobile apps.
 - 🌱 I’m currently doing the Master of Software Development programme at Victoria University of Wellington. I'm learning A LOT! from Java, JavaScript, to C#, Python, cloud, security, database...will be graduate July 2024! Yay! 
 - 💞️ I’m looking to collaborate on ...
