@@ -1,6 +1,6 @@
 - 👋 Kia ora, I’m Sophie : )
 - 👀 Currently, my interests include web apps, mobile apps, data and AI.
-- 🌱 At the end of June 2024 I'll graduate with a Master of Software Development programme at Victoria University of Wellington. I've learned a lot from this programme, from Java, JavaScript, to C#, Python, cloud, security, database, algorithm, React, React Native, Flutter...still more to come.  
+- 🌱 I've graduated with a Master of Software Development programme at Victoria University of Wellington. I've gained a lot from this programme, from Java, JavaScript, to C#, Python, cloud, security, database, algorithm, React, React Native, Flutter...still more to come. Most importatnly, I've learned the hard truth of IT, which is there is always something new to learn, and what's most important is to learn and understand things fast and use tool efficiently and effectively to solve problems. 
 - 💞️ I’m looking for an entry-level job.
 - 📫 How to reach me? Here's my linkedIn: https://www.linkedin.com/in/sophie-cao/
 - 😄 Pronouns: she/her
